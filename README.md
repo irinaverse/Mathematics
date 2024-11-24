@@ -17,7 +17,7 @@
 
 "Encoding Math into Python"
 
-- Mathematics - the science of structure, shape and order. Zero, one and many.
+- Mathematics - the science of structure, shape and order.
 - Nature follows the Fibonacci sequence, from seeds to galaxies, we recognize patterns.
 - Visual explanations and changing perspectives.
 - The Russian painter Wassily Kandinsky gives us an interesting view about geometry.

@@ -15,9 +15,12 @@
 - a function is a process, we explore something new
 - $Matplotlib$ is a library in Python, excellent tool for data visualization
 
+"Encoding Math into Python"
 
-""
-
-
+- Mathematics - the science of structure, shape and order. Zero, one and many.
+- Nature follows the Fibonacci sequence, from seeds to galaxies, we recognize patterns.
+- Visual explanations and changing perspectives.
+- The Russian painter Wassily Kandinsky gives us an interesting view about geometry.
+- This paper is not finished yet, but which scientific work is?
 
 <p align = "right"> Click the file names above to read the documents. </p>

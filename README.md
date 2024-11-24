@@ -12,8 +12,8 @@
 - We are not talking numbers here, we talk ideas
 
 "Data Science Math"
-- a function is a process, we explore something new.
-- $Matplotlib$ is a library in Python, excellent tool for data visualization.
+- a function is a process, we explore something new
+- $Matplotlib$ is a library in Python, excellent tool for data visualization
 
 
 ""

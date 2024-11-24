@@ -1,4 +1,4 @@
-## Mathematics in Data Science and Machine Learning
+## Mathematics in Data Science and Deep Learning
 
 "The Beauty of Mathematics, LaTeX and Scientific Python" is my first ever writing in the field.
 - Math has the same capacity for beauty as art, music and a full blanket of stars on a dark night.

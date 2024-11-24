@@ -1,5 +1,4 @@
 ## Mathematics in Data Science and Machine Learning
-#### 
 
 "The Beauty of Mathematics, LaTeX and Scientific Python" is my first ever writing in my tech study.
 - Math has the same capacity for beauty as art, music and a full blanket of stars on a dark night.
@@ -11,5 +10,14 @@
 - What is the area under the curve?
 - Infinitesimal or infinity small
 - We are not talking numbers here, we talk ideas
+
+"Data Science Math"
+- a function is a process, we explore something new.
+- $Matplotlib$ is a library in Python, excellent tool for data visualization.
+
+
+""
+
+
 
 <p align = "right"> Click the file names above to read the documents. </p>

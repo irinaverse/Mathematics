@@ -11,11 +11,11 @@
 - Infinitesimal or infinity small
 - We are not talking numbers here, we talk ideas
 
-"Data Science Math"
+"Data Science Math", my math diary uploaded
 - a function is a process, we explore something new
 - $Matplotlib$ is a library in Python, excellent tool for data visualization
 
-"Encoding Math into Python"
+"Encoding Math into Python", doing art and doing science
 
 - Mathematics - the science of structure, shape and order.
 - Nature follows the Fibonacci sequence, from seeds to galaxies, we recognize patterns.

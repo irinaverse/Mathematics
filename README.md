@@ -22,7 +22,7 @@
 - $Matplotlib$ is a library in Python, excellent tool for data visualization
 <br/>
 
-"*Encoding* *Math* *into* *Python*":
+"*Encoding* *Math* *into* *Python*"
 
 - Mathematics - the science of structure, shape and order.
 - Nature follows the Fibonacci sequence, from seeds to galaxies, we recognize patterns.
